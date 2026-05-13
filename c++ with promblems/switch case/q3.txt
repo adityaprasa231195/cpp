@@ -1,0 +1,26 @@
+Problem:
+Write a program that simulates a simple ATM menu system. Show this menu to the user:
+1. Check Balance
+2. Deposit Money
+3. Withdraw Money
+4. Exit
+Rules:
+
+Starting balance = 5000
+Deposit: Add entered amount to balance, print new balance
+Withdraw: If amount > balance → "Insufficient funds!", else deduct and print new balance
+Check Balance: Print current balance
+Invalid option: "Invalid choice! Try again."
+
+Sample Input/Output:
+Choice: 1
+Output: Your balance is: Rs. 5000
+
+Choice: 2, Amount: 1000
+Output: Rs. 1000 deposited. New balance: Rs. 6000
+
+Choice: 3, Amount: 7000
+Output: Insufficient funds!
+
+Choice: 4
+Output: Thank you! Goodbye
