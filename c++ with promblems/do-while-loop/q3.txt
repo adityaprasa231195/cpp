@@ -1,0 +1,5 @@
+ 
+*   **Problem Statement:** Write a program using a `while` loop to reverse an integer. Do not use strings, purely use mathematics.
+*   **Sample Input:** `1234`
+*   **Sample Output:** `Reversed number is: 4321`
+*   **Hint:** You will need to use the modulo operator `% 10` to get the last digit, and division `/ 10` to remove the last digit. You'll need an ongoing `reversedNumber` variable where you multiply by 10 and add the extracted digit in each iteration. Loop condition should be `while(n > 0)`.

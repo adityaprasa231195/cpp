@@ -1,0 +1,3 @@
+Problem Statement: Create a simple "Number Guessing Game" using a do-while loop. Set a secret number (e.g., 7). Ask the user to guess the number. Keep asking them UNTIL they guess the correct secret number. Once they guess it, print "Congratulations!"
+
+Sample Input: 4, 9, 7

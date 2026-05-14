@@ -1,0 +1,7 @@
+
+
+Problem Statement: Write a program using a while loop to find the sum of the first N natural numbers. Ask the user to input N.
+
+Sample Input: 5
+
+Sample Output: Sum is: 15 (because 1+2+3+4+5 = 15)

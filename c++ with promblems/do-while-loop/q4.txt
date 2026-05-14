@@ -1,0 +1,17 @@
+Problem Statement
+
+Set a correct PIN (e.g., 1234).
+Ask the user to enter the PIN repeatedly using a do-while loop.
+Stop only when the correct PIN is entered.
+After success, print:
+
+Access Granted
+Sample Input
+1111
+2222
+1234
+
+Sample Output
+Wrong PIN
+Wrong PIN
+Access Granted
