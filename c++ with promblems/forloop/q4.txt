@@ -1,0 +1,11 @@
+Blast Off!**
+*   **Problem statement:** Write a `for` loop that counts backward from 5 to 1. After the loop finishes, print "Blast off!".
+*   **Sample input:** None
+*   **Sample output:** 
+    `5`
+    `4`
+    `3`
+    `2`
+    `1`
+    `Blast off!`
+*   **Hint:** Your initialization should start at 5. Your condition needs to keep running as long as the counter is greater than 0. What should your update statement be to go downwards?

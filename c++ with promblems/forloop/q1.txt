@@ -1,0 +1,6 @@
+Print Evens**
+*   **Problem statement:** Write a `for` loop that prints all the even numbers from 2 up to 10 (inclusive).
+*   **Sample input:** None
+*   **Sample output:** `2 4 6 8 10`
+
+*   **Hint:** You don't have to update by just `1`. You can change the update statement in your `for` loop to `i = i + 2`.

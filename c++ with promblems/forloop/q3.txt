@@ -1,0 +1,5 @@
+Sum of Natural Numbers**
+*   **Problem statement:** Ask the user for a positive integer N. Use a loop to add up all the numbers from 1 to N, and then print the final total.
+*   **Sample input:** `4`
+*   **Sample output:** `10` (Because 1 + 2 + 3 + 4 = 10)
+*   **Hint:** Create a variable called `sum` and set it to `0` *before* the loop starts. Inside the loop, keep adding your loop counter `i` to `sum`.
