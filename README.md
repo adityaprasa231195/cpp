@@ -25,8 +25,4 @@ The repository is organized by learning days and specific C++ topics to keep the
 ## 🛠️ Tech Stack
 * **Language:** C++ (100%)
 
-## 🎯 Goals
-- Code consistently every day.
-- Master core and advanced C++ concepts (Pointers, Memory Management, OOPs).
-- Improve logic building and algorithmic thinking.
 
