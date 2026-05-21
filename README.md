@@ -30,5 +30,3 @@ The repository is organized by learning days and specific C++ topics to keep the
 - Master core and advanced C++ concepts (Pointers, Memory Management, OOPs).
 - Improve logic building and algorithmic thinking.
 
----
-*Created by [voidaditya](https://github.com/adityaprasa231195)*
