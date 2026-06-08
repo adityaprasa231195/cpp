@@ -13,6 +13,10 @@ int main() {
   cout << d << "\n";
   char *c2;
   c2 = c1;
+
   cout << c1 << " " << *(c2 + 1);
+  cout << "\n"
+       << (void *)&c2[0] << "\n"
+       << (void *)&c2[1]; // how to get address
   return 0;
 }
