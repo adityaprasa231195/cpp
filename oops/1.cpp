@@ -1,35 +1,25 @@
 #include <iostream>
-#include <list>
 using namespace std;
 
+class Location {
+private:
+  int distance;
+  string place;
 
+public:
+  int setDistance(int *d) {
+    distance = *d;
+    return distance;
+  }
 
-class yt{
-    public:
-    string name;
-    string username;
-    int sub;
-    list<string> publisvid;
+  int getDistance() { return distance; }
 };
 
-int main(){
-   yt objyt;
-   objyt. username="aditya123";
-   objyt. name="aditya";
-   objyt. sub=123;
-   objyt. publisvid={"code with me ", "5min code", "code with adi"};
+int main() {
+  Location location;
+  int value = 200;
+  location.setDistance(&value);
+  cout << location.getDistance();
 
-
-   cout<<"username :"<<objyt. username<<"\n";
-   cout<<"videos";
-   for(string video:objyt. publisvid)
-   {
-      cout<<video;
-   }
-    cout<<"\n";
-
-    system("pause");
-
-    return 0;
+  return 0;
 }
-
